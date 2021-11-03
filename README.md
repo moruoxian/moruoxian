@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=moruoxian&show_icons=true&theme=gotham" alt="moruoxian" />
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moruoxian&layout=compact&text_color=151515&bg_color=fefefe)](https://github.com/moruoxian)
-<p align="center">
+<p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=moruoxian" id="counter">
 </p>
 
