@@ -5,11 +5,7 @@
 <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moruoxian&theme=github_dark" alt="snowwhite-boss" align = "center"/></p>
 
-[![my GitHub data](https://github-readme-stats.vercel.app/api?username=moruoxian)]()
-<!--
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=moruoxian&show_icons=true&theme=gotham" alt="moruoxian" />
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moruoxian&layout=compact&text_color=151515&bg_color=fefefe)](https://github.com/moruoxian)
+
 <p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=moruoxian" id="counter">
 </p>
