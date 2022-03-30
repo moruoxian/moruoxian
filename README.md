@@ -1,7 +1,10 @@
+<!--
+**moruoxian/moruoxian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+-->
+
 ### Hi there I'm moruoxian  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-📈 my github stats
-
 
 
 
@@ -9,13 +12,9 @@
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moruoxian&theme=github_dark" alt="snowwhite-boss" align = "center"/></p>
 
 
-
-
-
 <summary><b>⚡ Github Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=snowwhite-boss&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="snowwhite-boss" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=snowwhite-boss&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="snowwhite-boss" align = "center"/></p>
-
 
 
  <summary><b>🔥 Github Streaks</b></summary>
@@ -30,11 +29,7 @@
 
 
 
-<!--
-**moruoxian/moruoxian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
