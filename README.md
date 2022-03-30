@@ -10,11 +10,25 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=moruoxian&show_icons=true&theme=gotham" alt="moruoxian" />
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moruoxian&layout=compact&text_color=151515&bg_color=fefefe)](https://github.com/moruoxian)
-<p align="center">
+<p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=moruoxian" id="counter">
 </p>
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/moruoxian)
+
+
+
+
+ <summary><b>🔥 Github Streaks</b></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=snowwhite-boss&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="moruoxian" /></p>
+
+<summary><b>📊 Github Contribution Graph</b></summary>
+<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=moruoxian&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<!-- </details>
+<details>    -->
+ <summary><b>🏆 Github Achievements</b></summary>
+<p align="center"> <a href="https://github.com/moruoxian"><img src="https://github-profile-trophy.vercel.app/?username=moruoxian&margin-w=5&theme=radical" alt="moruoxian" /></a> </p>
+
 
 
 <!--
