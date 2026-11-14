@@ -130,9 +130,9 @@
     "oid": "91b4d3f4419515fa38e714c6b2607f8aa46a59ee"
   },
   "moruoxian/moruoxian": {
-    "added": 98,
-    "deleted": 42,
-    "oid": "7472d376f5ce5653467da55afdc1973575c1ae02"
+    "added": 4203,
+    "deleted": 94,
+    "oid": "268f80c3649edd99c1438a2b57c60bdcde00daa2"
   },
   "moruoxian/mqtt-simulator-tauri": {
     "added": 14508,
