@@ -26,7 +26,7 @@ ASCII_SRC = ROOT / "assets" / "ascii-art.txt"
 ASCII_SRC_LIGHT = ROOT / "assets" / "ascii-art-light.txt"
 STATS_SRC = ROOT / "cache" / "stats.json"
 
-BIRTHDATE = dt.date(1997, 3, 15)
+BIRTHDATE = dt.date(2016, 12, 13)
 
 # --- Type metrics -----------------------------------------------------------
 # Consolas advances 0.55em per glyph; the generic monospace fallback advances
@@ -78,18 +78,18 @@ THEMES = {
 TITLE = "moruoxian@github"
 
 INFO = [
-    ("OS", "Windows, Ubuntu, Android"),
+    ("OS", "macOS, Linux, Windows"),
     ("Uptime", None),  # filled from BIRTHDATE
-    ("Host", "China"),
-    ("Kernel", "Product & Software Engineer"),
-    ("IDE", "VSCode, Cursor, Orca"),
+    ("Host", "Singapore"),
+    ("Kernel", "Full Stack Engineer"),
+    ("IDE", "Codex, Cursor, Grok"),
     None,
     # Languages ranked by what the public repos actually contain: TypeScript
     # 33, JavaScript 11, C++ 5, Java 5, Python 2. Go is absent from that count
     # because the Crombie work is private, but it is the PUMA backend stack.
     ("Languages.Programming", "C++, Python, Swift, Go, JS"),
     ("Languages.Web", "Vue, React, Node.js, GraphQL"),
-    ("Languages.Real", "Chinese, English"),
+    ("Languages.Real", "Chinese"),
     None,
     # Drawn from the portfolio's own project list rather than invented.
     ("Focus.AI", "Agents, MCP, LLM Automation"),
@@ -98,7 +98,7 @@ INFO = [
 ]
 
 CONTACT = [
-    ("Email", "794997265@qq.com"),
+    ("Email", "794997265moruoxian@gmail.com"),
     ("GitHub", "moruoxian"),
     ("Home", "github.com/moruoxian"),
 ]
