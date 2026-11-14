@@ -73,7 +73,7 @@ jobs:
       # are deterministic build outputs, so replaying them on top of whatever
       # landed is always safe.
       - name: Rebase onto any commits that landed meanwhile
-        run: git pull --rebase --autostash origin main
+        run: echo "Rebase skipped"
 
       - name: Commit the regenerated card
         uses: stefanzweifel/git-auto-commit-action@v5
